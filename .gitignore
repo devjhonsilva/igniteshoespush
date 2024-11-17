@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+igniteshoesapp-2c0aa-firebase-adminsdk-bcehg-00b781b898.json
 
 # macOS
 .DS_Store
